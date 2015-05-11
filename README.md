@@ -1,2 +1,2 @@
 # PayPal
-Implemented External Payment Gateway of PayPal using ASP.NET MVC 4 and REST API. This current payment service is used widely in big e-commerce web projects.
+Implemented External Payment Gateway of PayPal using ASP.NET MVC 4 with REST API. This payment service is used by widely in big e-commerce web projects.
